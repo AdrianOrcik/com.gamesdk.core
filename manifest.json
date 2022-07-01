@@ -1,0 +1,15 @@
+{
+  "name": "com.gamesdk.core",
+  "displayName": "Package Example",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "author": "Adrian Orcik",
+  "description": "This is an example package",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.unity3d.com",
+    "revision": "unity@example.com"
+  }
+}
