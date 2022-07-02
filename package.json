@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "displayName": "Package Example",
   "description": "This is an example package",
-  "unity": "2020.3",
+  "unity": "2020.3"
 }
